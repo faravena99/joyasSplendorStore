@@ -1,0 +1,37 @@
+.navbar-custom {
+    background: var(--principal);
+    color: #FFFFFF;
+    padding: 30px;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.Heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #1c1b1b;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+
+a {
+    background: transparent;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.HorizontalList_Item {
+    display: inline-block;
+    margin: 6px 8px 6px 8px;
+}
+
+*,
+ :after,
+ :before {
+    box-sizing: border-box!important;
+    -webkit-font-smoothing: antialiased;
+}
