@@ -1,0 +1,13 @@
+.card-title {
+
+}
+
+.btn-custom {
+    background: var(--principal);
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}

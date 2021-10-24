@@ -1,0 +1,12 @@
+.contenedor{
+    margin: 100px;
+    font-family:'Montserrat', sans-serif;
+    letter-spacing: .2em;
+
+}
+
+.contenedor-splendor{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
